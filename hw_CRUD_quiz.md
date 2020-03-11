@@ -8,8 +8,8 @@ In our Property Tracker application:
 
 Q1. Where are we instantiating instances of the `Property` class?
 
-<!-- attr_accessor :address, :property_value, :number_bedrooms, :year_built
-attr_reader :id -->
+attr_accessor :address, :property_value, :number_bedrooms, :year_built
+attr_reader :id
 
 Q2. Where are we defining the SQL that enables us to save the ruby `Property` object into the database?
 
